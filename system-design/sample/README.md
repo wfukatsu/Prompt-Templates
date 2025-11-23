@@ -12,6 +12,8 @@ Gemini CLI を用いて、以下のように実行します。
 2. `domain-refactering-agent.md`を Gemini に読ませる
 3. 分析対象のディレクトリを指定し、レポートを出力するように指示する
 
+![実行画面](./gemini-cli-execution.png)
+
 ## 実行結果
 ![Before/After](./before-after.png)
 
