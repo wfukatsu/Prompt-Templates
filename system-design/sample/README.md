@@ -14,12 +14,12 @@ Gemini CLI を用いて、以下のように実行します。
 ## 実行結果
 ![Before/After](./before-after.png)
 
-* [ドメイン分析](./01_domain_analysis.md)
-* [システムマッピング](./02_system_mapping.md)
-* [ターゲットアーキテクチャ](./03_target_architecture.md)
-* [移行計画](./04_transformation_plan.md)
-* [オペレーションとフィードバック](./05_operations_and_feedback.md)
-* [モジュール成熟度指数](./06_mmi_overview.md)
-* [モジュールとドメインごとのモジュール成熟度指数](./07_mmi_by_module_and_domain.md)
-* [モジュール成熟度改善計画](./08_mmi_improvement_plan.md)
+* [ドメイン分析](./reports/01_domain_analysis.md)
+* [システムマッピング](./reports/02_system_mapping.md)
+* [ターゲットアーキテクチャ](./reports/03_target_architecture.md)
+* [移行計画](./reports/04_transformation_plan.md)
+* [オペレーションとフィードバック](./reports/05_operations_and_feedback.md)
+* [モジュール成熟度指数](./reports/06_mmi_overview.md)
+* [モジュールとドメインごとのモジュール成熟度指数](./reports/07_mmi_by_module_and_domain.md)
+* [モジュール成熟度改善計画](./reports/08_mmi_improvement_plan.md)
 
